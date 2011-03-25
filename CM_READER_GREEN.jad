@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: cm
+MIDlet-Jar-URL: CM_READER_GREEN.jar
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: 怡红书苑,/logo.png,com.caimeng.system.MIDlet.MainMIDlet
+MIDlet-Name: ReaderMM
